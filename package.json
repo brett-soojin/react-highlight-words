@@ -1,5 +1,5 @@
 {
-  "name": "react-highlight-words",
+  "name": "@bucketplace/react-highlight-words",
   "version": "0.21.0",
   "description": "React component to highlight words within a larger body of text",
   "main": "dist/main.js",
