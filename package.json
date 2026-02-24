@@ -60,6 +60,7 @@
       "jasmine"
     ]
   },
+  "types": "index.d.ts",
   "devDependencies": {
     "babel": "^5.8.34",
     "babel-core": "^5.8.34",
